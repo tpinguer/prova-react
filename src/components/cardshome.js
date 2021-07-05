@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     icons: {
         marginTop: 50,
         marginLeft: 10,
-        flex: 5
+        width: '100%'
     },
     geralText: {
         alignItems: 'flex-end',
